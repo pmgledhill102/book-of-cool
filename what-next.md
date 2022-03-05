@@ -1,0 +1,3 @@
+# what-next
+
+A tracker for a whole host of technology that I want to look at...
