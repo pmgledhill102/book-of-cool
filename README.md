@@ -30,3 +30,9 @@ Great API interaction standard
 
 - [Scott Hanselman's Tools](https://www.hanselman.com/blog/scott-hanselmans-2021-ultimate-developer-and-power-users-tool-list-for-windows) A cracking selection of tools to make your digital world a better place 
 - [PowerToys](https://github.com/microsoft/PowerToys), mainly use it for bringing wide monitor support to Windows, but some other useful features too
+
+## Useful Links
+
+### BASH
+
+- [Bash scripting cheatsheet]<https://devhints.io/bash> : Invaluable reminder on how to do things
